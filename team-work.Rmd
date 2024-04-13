@@ -36,7 +36,7 @@ Use the following ratings:
 
 ## 0. Group number
 
-What Group number are you in?
+10 
 
 ## 1. Preparation
 
@@ -48,9 +48,9 @@ What Group number are you in?
 
 | Group member name | Preparation rating |
 |-------------------|--------------------|
-|                   |                    |
-|                   |                    |
-|                   |                    |
+| Cassandra Zhang   |    4               |
+| James He          |    4               |
+| Ethan Kenny       |    4               |
 
 ## 2. Participation & communication
 
@@ -61,9 +61,9 @@ What Group number are you in?
 
 | Group member name | Participation & communication rating |
 |-------------------|--------------------------------------|
-|                   |                                      |
-|                   |                                      |
-|                   |                                      |
+| Cassandra Zhang   |    4               |
+| James He          |    4               |
+| Ethan Kenny       |    4               |
 
 ## 3. Helps group excel
 
@@ -75,9 +75,9 @@ What Group number are you in?
 
 | Group member name | Helps group excel rating |
 |-------------------|--------------------------|
-|                   |                          |
-|                   |                          |
-|                   |                          |
+| Cassandra Zhang   |    4                     |
+| James He          |    4                     |
+| Ethan Kenny       |    4                     |
 
 ## 4. Team player (cooperation)
 
@@ -89,9 +89,9 @@ What Group number are you in?
 
 | Group member name | Team player (cooperation) rating |
 |-------------------|----------------------------------|
-|                   |                                  |
-|                   |                                  |
-|                   |                                  |
+| Cassandra Zhang   |    4                             |
+| James He          |    4                             |
+| Ethan Kenny       |    4                             |
 
 Below,
 briefly describe the specific contributions each team member
@@ -101,10 +101,30 @@ Specifically,
 comment on the following areas:
 
 - How the team worked together as a whole, including:
-    - What was your role in the group?
-      That is, what sort of things did you do to contribute to the evolution of the project?
-    - What were the roles of others in your group?
+- What was your role in the group?
+
+- Drafting test cases for the functions
+- Developing the perform analysis functions
+- Rectifying errors in the file
+- Conducting feedback reviews
+- Structuring the README file
+- Crafting a Quarto document and producing PDF and HTML outputs
+- Participating in the analysis of the Python report
+- Contributing to group discussions and meetings with new ideas and error handling
+
+    - What were the roles of others in your group? 
+
+- Generating python report
+- Error Handling 
+- Generating docker file 
+- Generating the pycrimeprediction package 
+- Generating Code of Conduct, Contributing.md, README.md, license, code dependancies
+- Research for the topic of analysis 
+- Communication on discord 
+
 - What went well and poorly throughout the team project experience?
+
+Due to personal health reasons, I was regrettably not able to contribute as much as I would like to milestone 1. However, I was able to contribute well to other milestones and learn and gain experience with reproducity and trustworthy workflows. The group was very cooperative with each other and understanding of each others problems and issues. We helped each other when we were stuck with handling errors and divided the work equally. 
 
 ## Submission instructions
 
